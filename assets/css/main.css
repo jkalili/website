@@ -113,6 +113,26 @@ section h2 {
     font-size: 0.9rem;
 }
 
+/* Projects */
+.project {
+    margin-bottom: 1.5rem;
+}
+
+.project h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.project a {
+    color: #314d1c;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
 /* Remove unused styles */
 .grid, #footer {
     display: none;
